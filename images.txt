@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #zerotier/zerotier
-clash/clash-proxy
+clash/clash
