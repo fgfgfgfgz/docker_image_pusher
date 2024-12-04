@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #zerotier/zerotier
 #dreamacro/clash
-haishanh/yacd
+#haishanh/yacd
+v2ray/official
