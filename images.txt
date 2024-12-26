@@ -7,4 +7,6 @@
 #zerotier/zerotier
 #dreamacro/clash
 #haishanh/yacd
-v2ray/official
+#v2ray/official
+mongodb/mongo
+xbrowsersync/api
