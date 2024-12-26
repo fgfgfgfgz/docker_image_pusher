@@ -9,4 +9,4 @@
 #haishanh/yacd
 #v2ray/official
 #mongo
-xbrowsersync/xbrowsersync/api
+xbrowsersync/xbrowsersync
