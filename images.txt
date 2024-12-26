@@ -8,5 +8,5 @@
 #dreamacro/clash
 #haishanh/yacd
 #v2ray/official
-mongodb/mongo
+mongodb
 xbrowsersync/api
