@@ -11,4 +11,5 @@
 #mongo:4.4
 #xbrowsersync/api
 #v2fly/v2fly-core
-mzz2017/v2raya
+#mzz2017/v2raya
+iptvchecker
