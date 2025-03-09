@@ -12,5 +12,6 @@
 #xbrowsersync/api
 #v2fly/v2fly-core
 #mzz2017/v2raya
-oldiy/dosgame-web-docker
-zmisgod/iptvchecker
+#oldiy/dosgame-web-docker
+#zmisgod/iptvchecker
+lobehub/lobe-chat
