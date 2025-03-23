@@ -15,5 +15,6 @@
 oldiy/dosgame-web-docker
 #zmisgod/iptvchecker
 #lobehub/lobe-chat
-nriver/trilium-cn
-joplin/server
+#nriver/trilium-cn
+#joplin/server
+pch18/baota
