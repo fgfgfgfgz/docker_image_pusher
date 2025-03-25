@@ -17,4 +17,4 @@ oldiy/dosgame-web-docker
 #lobehub/lobe-chat
 #nriver/trilium-cn
 #joplin/server
-pch18/baota
+btpanel/baota
