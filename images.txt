@@ -12,9 +12,10 @@
 #xbrowsersync/api
 #v2fly/v2fly-core
 #mzz2017/v2raya
-oldiy/dosgame-web-docker
+#oldiy/dosgame-web-docker
 #zmisgod/iptvchecker
 #lobehub/lobe-chat
 #nriver/trilium-cn
 #joplin/server
-btpanel/baota
+#btpanel/baota
+frooodle/s-pdf
