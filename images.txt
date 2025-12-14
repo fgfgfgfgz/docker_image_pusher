@@ -18,4 +18,5 @@
 #nriver/trilium-cn
 #joplin/server
 #btpanel/baota
-frooodle/s-pdf
+#frooodle/s-pdf
+jellyfin/jellyfin:10.10.7
