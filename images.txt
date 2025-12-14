@@ -19,4 +19,4 @@
 #joplin/server
 #btpanel/baota
 #frooodle/s-pdf
-jellyfin/jellyfin:10.10.7
+nyanmisaka/jellyfin:10.10.7
