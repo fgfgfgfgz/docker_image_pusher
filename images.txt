@@ -19,4 +19,5 @@
 #joplin/server
 #btpanel/baota
 #frooodle/s-pdf
-nyanmisaka/jellyfin:latest
+#nyanmisaka/jellyfin:latest
+postgres:alpine3.23
